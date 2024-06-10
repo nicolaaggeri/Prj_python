@@ -2,6 +2,6 @@
 ## Componenti del gruppo:
 Aggeri Nicola,
 Dammacco Luca,
-Alessandro Revelli,
-Loris Zanellati,
-Andrea Racca
+Revelli Alessandro,
+Zanellati Loris,
+Racca Andrea
